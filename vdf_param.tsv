@@ -1,0 +1,10 @@
+Function class	Road Class	Description	vo (km/h)	Q (veh/h/lane)	Ja	vm / vo	bpr alpha	bpr beta
+funcclass	roadclass	description	vo	Q	Ja	vmvo	alpha	beta
+0	1	Freeway	120	2000	0.1	0.63	0.4	8
+1	1	Freeway	120	2000	0.1	0.63	0.4	8
+2	2	Arterial (uninterrupted)	100	1800	0.2	0.57	0.5	6
+3	2	Arterial (uninterrupted)	100	1800	0.2	0.57	0.5	6
+4	3	Arterial (interrupted)	80	1200	0.4	0.49	0.6	5
+5	3	Arterial (interrupted)	80	1200	0.4	0.49	0.6	5
+6	4	Secondary (interrupted)	60	900	0.8	0.44	0.7	4
+7	5	Secondary (high friction)	40	600	1.6	0.41	0.7	4
